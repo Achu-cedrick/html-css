@@ -1,0 +1,4 @@
+git init // to initialize folder
+git add . // to add all the content to local git
+git commit -m // to commit the changes
+git push // to sent the local word to online git
